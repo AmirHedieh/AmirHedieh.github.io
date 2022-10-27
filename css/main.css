@@ -1,4 +1,7 @@
 /* Timeline custom component */
+a.ldmLink{
+  color:inherit;
+}
 .timeline-card {
   position: relative;
   margin-left: 16px; }
