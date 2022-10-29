@@ -7,6 +7,10 @@ a.ldmLink {
 	align-items: center;
 	justify-content: center;
 }
+.skill-label {
+	color: white;
+	background-color: #32a852;
+}
 .proxima_h3 {
 	background-color: aqua;
 }
@@ -103,8 +107,8 @@ body {
 }
 
 .progress-bar {
-	text-transform: uppercase;
-	font-size: 10px;
+	/* text-transform: uppercase; */
+	font-size: 16px;
 	letter-spacing: 1px;
 }
 
